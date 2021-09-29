@@ -1,1 +1,1 @@
-# Diagnosis-Predict-of-Heart-Disease
+# Predictive-Diagnosis-of-Heart-Disease
